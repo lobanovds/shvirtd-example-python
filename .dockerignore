@@ -1,0 +1,14 @@
+.venv
+Dockerfile
+Dockerfile.python
+.dockerignore
+.git
+main.py
+.env
+.env.homework
+*.yaml
+*.yml
+haproxy
+nginx
+
+
